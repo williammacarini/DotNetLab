@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DotNetLab.Cli/DotNetLab.Cli.csproj" />
+    <Project Path="src/DotNetLab.Core/DotNetLab.Core.csproj" />
+    <Project Path="src/DotNetLab.Labs/DotNetLab.Labs.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DotNetLab.Core.Tests/DotNetLab.Core.Tests.csproj" />
+    <Project Path="tests/DotNetLab.Labs.Tests/DotNetLab.Labs.Tests.csproj" />
+  </Folder>
+</Solution>

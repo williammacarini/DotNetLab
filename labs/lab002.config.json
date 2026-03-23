@@ -1,0 +1,5 @@
+{
+  "labId": "Lab002",
+  "name": "Event Sourcing Basics",
+  "description": "Introduction to event sourcing with Marten."
+}
