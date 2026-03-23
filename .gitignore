@@ -1,0 +1,12 @@
+# .NET Core ignore
+bin/
+obj/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# MacOS
+.DS_Store
