@@ -1,5 +1,7 @@
 # DotNetLab
 
+[![gitcgr](https://gitcgr.com/badge/williammacarini/DotNetLab.svg)](https://gitcgr.com/williammacarini/DotNetLab)
+
 Modular sandbox for .NET experiments, AI agents, and advanced architectures.
 
 ## Quick Start
