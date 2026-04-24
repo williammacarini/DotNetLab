@@ -1,11 +1,10 @@
 <Solution>
-  <Folder Name="/src/">
-    <Project Path="src/DotNetLab.Cli/DotNetLab.Cli.csproj" />
-    <Project Path="src/DotNetLab.Core/DotNetLab.Core.csproj" />
-    <Project Path="src/DotNetLab.Labs/DotNetLab.Labs.csproj" />
+  <Folder Name="/001-saga-pattern/">
+    <Project Path="labs/001-saga-pattern/src/SagaPattern/SagaPattern.csproj" />
+    <Project Path="labs/001-saga-pattern/tests/SagaPattern.Tests/SagaPattern.Tests.csproj" />
   </Folder>
-  <Folder Name="/tests/">
-    <Project Path="tests/DotNetLab.Core.Tests/DotNetLab.Core.Tests.csproj" />
-    <Project Path="tests/DotNetLab.Labs.Tests/DotNetLab.Labs.Tests.csproj" />
+  <Folder Name="/002-rate-limit/">
+    <Project Path="labs/002-rate-limit/src/RateLimit/RateLimit.csproj" />
+    <Project Path="labs/002-rate-limit/tests/RateLimit.Tests/RateLimit.Tests.csproj" />
   </Folder>
 </Solution>

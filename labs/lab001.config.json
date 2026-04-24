@@ -1,5 +1,0 @@
-{
-  "labId": "Lab001",
-  "name": "Plugin Architecture",
-  "description": "Demonstrates loading DLLs dynamically."
-}

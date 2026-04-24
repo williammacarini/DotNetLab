@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SagaPattern/SagaPattern.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SagaPattern.Tests/SagaPattern.Tests.csproj" />
+  </Folder>
+</Solution>
