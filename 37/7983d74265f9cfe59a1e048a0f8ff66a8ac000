@@ -1,0 +1,21 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "377983d74265f9cfe59a1e048a0f8ff66a8ac000",
+  "prompts": {
+    "c4917e020fe7e2f0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4bcf088c-b748-451c-ba4d-99662a8b2c9c",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "William Prussak Macarini",
+      "messages": [],
+      "total_additions": 2439,
+      "total_deletions": 75,
+      "accepted_lines": 2388,
+      "overriden_lines": 9
+    }
+  }
+}
