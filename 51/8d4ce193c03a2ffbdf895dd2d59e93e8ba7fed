@@ -1,0 +1,51 @@
+labs/001-saga-pattern/src/SagaPattern/SagaPattern.csproj
+  c4917e020fe7e2f0 1-13
+README.md
+  c4917e020fe7e2f0 3,5,7-94
+scripts/create-lab.sh
+  c4917e020fe7e2f0 1-104
+labs/001-saga-pattern/tests/SagaPattern.Tests/SagaPattern.Tests.csproj
+  c4917e020fe7e2f0 1-25
+labs/001-saga-pattern/SagaPattern.slnx
+  c4917e020fe7e2f0 1-8
+labs/002-rate-limit/RateLimit.slnx
+  c4917e020fe7e2f0 1-8
+labs/002-rate-limit/src/RateLimit/RateLimit.csproj
+  c4917e020fe7e2f0 1-9
+labs/002-rate-limit/src/RateLimit/TokenBucketRateLimiter.cs
+  c4917e020fe7e2f0 45-112
+labs/001-saga-pattern/README.md
+  c4917e020fe7e2f0 1-51
+labs/002-rate-limit/src/RateLimit/FixedWindowRateLimiter.cs
+  c4917e020fe7e2f0 53
+Makefile
+  c4917e020fe7e2f0 1-29
+labs/002-rate-limit/src/RateLimit/LeakyBucketRateLimiter.cs
+  c4917e020fe7e2f0 35-103
+labs/002-rate-limit/README.md
+  c4917e020fe7e2f0 1-67
+labs/002-rate-limit/tests/RateLimit.Tests/RateLimit.Tests.csproj
+  c4917e020fe7e2f0 1-25
+DotNetLab.slnx
+  c4917e020fe7e2f0 2-4,6-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "518d4ce193c03a2ffbdf895dd2d59e93e8ba7fed",
+  "prompts": {
+    "c4917e020fe7e2f0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4bcf088c-b748-451c-ba4d-99662a8b2c9c",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "William Prussak Macarini",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 2397,
+      "overriden_lines": 0
+    }
+  }
+}
